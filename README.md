@@ -6,6 +6,6 @@
 <h3>2 - Abra o console utilizando o 
 <span style="color: red" >ctrl + J</span>
 </h3>
-<h3>3 - Digite no console
+<h3>3 - Digite no console (
 <span style="color: green">node index.js</span>
-</h3>
+)</h3>
